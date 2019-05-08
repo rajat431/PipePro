@@ -57,7 +57,7 @@
     </site>
 	<snapshotRepository>
 		<id>nexus-snapshots</id>
-		<url>http://16.181.235.56:8088/nexus/content/repositories/Jpetstore</url>
+		<url>http://137.135.126.203:8081/repository/jpet/</url>
 </snapshotRepository>
 </distributionManagement>
   </distributionManagement> -->
